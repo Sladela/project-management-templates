@@ -11,7 +11,7 @@ This Excel template helps you create a clear, structured plan for managing proje
 3. **Assign responsibility** in the “Responsible” column
 4. **Set start and due dates** (columns D and E)
 5. The “Days Remaining” column will auto-calculate how much time is left
-6. Choose a priority (Alta, Media, Baja) and status (To Do, In Progress, Done) from dropdowns
+6. Choose a priority (High, Medium, Low) and status (To Do, In Progress, Done) from dropdowns
 7. Use the “Notes” column for comments or links
 
 ---
@@ -25,7 +25,7 @@ This Excel template helps you create a clear, structured plan for managing proje
 | Start Date | When the task begins |
 | Due Date | Deadline |
 | Days Remaining | Automatically shows days left (✔️ if completed) |
-| Priority | Dropdown: Alta, Media, Baja |
+| Priority | Dropdown: High, Medium, Low |
 | Status | Dropdown: To Do, In Progress, Done |
 | Notes | Extra comments |
 
@@ -50,4 +50,4 @@ This Excel template helps you create a clear, structured plan for managing proje
 
 📄 Version: v1.0  
 Last updated: 2025-06-18  
-Maintained by: Adela (Project Management Department)
+Maintained by: Adela (Project Management)
